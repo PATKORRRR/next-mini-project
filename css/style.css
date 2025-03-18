@@ -1,1 +1,15 @@
 /* Ini file css */
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar-menu{
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    justify-content: flex-end;
+
+}
